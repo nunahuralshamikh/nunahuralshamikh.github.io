@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html>
 	<head>
-		<title>nunahuralshamikh.github.io</title>
+		<title>Cody Suck Big Weiner</title>
 	</head>
 	<body>
-		<h1>Hello World</h1>
-		<p>poop</p>
+		<h1>Cody Likes to Eat</h1>
+		<p>POOP</p>
 	</body>
 </html>
